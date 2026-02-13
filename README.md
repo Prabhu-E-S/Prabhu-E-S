@@ -42,7 +42,7 @@ Self.Email: elanprabhu009@gmail.com
 
 ## 🌐 Connect With Me
 
-* LinkedIn: [https://linkedin.com/in/](https://linkedin.com/in/yourprofile)prabhues2007
+* LinkedIn: www.linkedin.com/in/prabhues2007
 * LeetCode: https://leetcode.com/u/PRABHU_E_S
 
 ---
