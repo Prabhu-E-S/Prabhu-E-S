@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Prabhu E S
 
-<!--
-**Prabhu-E-S/Prabhu-E-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+OS: Indian OS
+Uptime: 18 Years
+Host: NITC
+Kernel: Electronics and Communication Engineering (ECE)
 
-Here are some ideas to get you started:
+Programming.Languages: C, HTML/CSS, Python, JavaScript
+Programming.Frameworks: ReactJS, Tailwind
+Programming.Databases: MySQL
+Programming.Libraries: NumPy, Pandas
+Programming.Services: Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages.Real: English, Tamil ,Hindi
+Self.Interests: Web Dev, AI/ML, Robotics
+Self.Email: elanprabhu009@gmail.com
+```
+
+---
+
+## 🚀 About Me
+
+* Student passionate about technology , Robotics & building real-world projects
+* Currently learning **Web Development & DSA**
+* Love creating automation, electronics, and coding projects
+
+---
+
+## 🧰 Tech Stack
+
+**Languages:**
+`C` `Python` `JavaScript`
+
+**Frontend:**
+`React` `HTML` `CSS` `Tailwind`
+
+**Database:**
+`MySQL`
+
+---
+
+## 🌐 Connect With Me
+
+* LinkedIn: [https://linkedin.com/in/](https://linkedin.com/in/yourprofile)prabhues2007
+* LeetCode: https://leetcode.com/u/PRABHU_E_S
+
+---
+
+⭐ *“Always learning, always building.”*
