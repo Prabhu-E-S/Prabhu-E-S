@@ -11,7 +11,7 @@ Programming.Frameworks: ReactJS, Tailwind
 Programming.Databases: MySQL (_Intermediate_)
 Programming.Libraries: NumPy, Pandas, OpenCV (__Beginner__)
 Programming.Services: Git
-Programming.models: Linear, Logistic, Random Forest, Transformer
+Programming.models: Linear, Logistic, Random Forest, Transformer, XGBoost
 
 Robotics.Languages: Arduino(C)
 Robotics.Tools: TinkerCAD, Wokwi
