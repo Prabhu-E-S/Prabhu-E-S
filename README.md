@@ -1,19 +1,24 @@
-# 👋 Hi, I'm Prabhu E S
+# Hi, I'm Prabhu E S 😉
 
 ```
 OS: Indian OS
 Uptime: 18 Years
-Host: NITC
+Host: National Institute Of Technology Calicut
 Kernel: Electronics and Communication Engineering (ECE)
 
-Programming.Languages: C, HTML/CSS, Python, JavaScript
+Programming.Languages: C, HTML&CSS, Python, JavaScript
 Programming.Frameworks: ReactJS, Tailwind
-Programming.Databases: MySQL
-Programming.Libraries: NumPy, Pandas
+Programming.Databases: MySQL (_Intermediate_)
+Programming.Libraries: NumPy, Pandas, OpenCV (__Beginner__)
 Programming.Services: Git
+Programming.models: Linear, Logistic, Random Forest, Transformer
 
-Languages.Real: English, Tamil ,Hindi
-Self.Interests: Web Dev, AI/ML, Robotics
+Robotics.Languages: Arduino(C)
+Robotics.Tools: TinkerCAD, Wokwi
+Robotics.Softwares: Matlab Simulink, ROS (__Beginner__), Proteus (__Beginner__)
+
+Languages.Real: English, Tamil, Hindi
+Self.Interests: Web Dev, AI/ML, Robotics, Autonomous
 Self.Email: elanprabhu009@gmail.com
 ```
 
@@ -22,7 +27,7 @@ Self.Email: elanprabhu009@gmail.com
 ## 🚀 About Me
 
 * Student passionate about technology , Robotics & building real-world projects
-* Currently learning **Web Development & DSA**
+* Currently learning **Web Development & DSA & ML Algorithms**
 * Love creating automation, electronics, and coding projects
 
 ---
