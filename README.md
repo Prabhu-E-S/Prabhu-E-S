@@ -6,12 +6,12 @@ Uptime: 18 Years
 Host: National Institute Of Technology Calicut
 Kernel: Electronics and Communication Engineering (ECE)
 
-Programming.Languages: C, HTML&CSS, Python, JavaScript
+Programming.Languages: C, HTML & CSS, Python, JavaScript
 Programming.Frameworks: ReactJS, Tailwind
 Programming.Databases: MySQL (_Intermediate_)
 Programming.Libraries: NumPy, Pandas, OpenCV (__Beginner__)
-Programming.Services: Git
-Programming.models: Linear, Logistic, Random Forest, Transformer, XGBoost
+Programming.Services: Git, Github
+Programming.models: Supervised, Logistic, Random Forest, Transformer, XGBoost
 
 Robotics.Languages: Arduino(C)
 Robotics.Tools: TinkerCAD, Wokwi
