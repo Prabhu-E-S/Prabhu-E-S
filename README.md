@@ -9,7 +9,7 @@ Kernel: Electronics and Communication Engineering (ECE)
 Programming.Languages: C, HTML & CSS, Python, JavaScript
 Programming.Frameworks: ReactJS, Tailwind
 Programming.Databases: MySQL (_Intermediate_)
-Programming.Libraries: NumPy, Pandas, OpenCV (__Beginner__)
+Programming.Libraries: NumPy, Pandas, Matplotlib, Seaborn, OpenCV (__Beginner__)
 Programming.Services: Git, Github
 Programming.models: Supervised, Logistic, Random Forest, Transformer, XGBoost
 
