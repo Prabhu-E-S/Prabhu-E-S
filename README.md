@@ -4,7 +4,7 @@
 
 > I build intelligent systems that connect software, AI, and the physical world.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Builder;ECE+%40+NIT+Calicut;Full-Stack+Developer;Robotics+Enthusiast;Building+%E2%86%92+Breaking+%E2%86%92+Fixing+%E2%86%92+Shipping)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=100&center=true&vCenter=true&width=700&lines=AI%2FML+Builder;ECE+%40+NIT+Calicut;Full-Stack+Developer;Robotics+Enthusiast;Building+%E2%86%92+Breaking+%E2%86%92+Fixing+%E2%86%92+Shipping)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prabhues.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhues2007/)
