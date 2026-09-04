@@ -4,6 +4,10 @@
 
 > I build intelligent systems that connect software, AI, and the physical world.
 
+[![GitHub](...)](...)
+[![LinkedIn](...)](...)
+[![LeetCode](...)](...)
+
 ```
 OS: Indian OS
 Uptime: 18 Years
