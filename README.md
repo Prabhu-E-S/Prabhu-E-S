@@ -1,4 +1,8 @@
-# Hi, I'm Prabhu E S 😉
+# Prabhu E S
+
+### ECE @ NIT Calicut | AI/ML • Full-Stack • Robotics
+
+> I build intelligent systems that connect software, AI, and the physical world.
 
 ```
 OS: Indian OS
