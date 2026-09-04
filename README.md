@@ -4,7 +4,7 @@
 
 > I build intelligent systems that connect software, AI, and the physical world.
 
-[![GitHub](...)](...)
+[![GitHub]](...)
 [![LinkedIn](...)](...)
 [![LeetCode](...)](...)
 
