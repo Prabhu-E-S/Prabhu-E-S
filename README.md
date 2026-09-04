@@ -42,6 +42,20 @@ Self.Email: elanprabhu009@gmail.com
 
 ---
 
+---
+
+## 🚀 My GitHub in Space
+
+<p align="center">
+  <img src="./game.gif" width="850">
+</p>
+
+<p align="center">
+  <i>Every contribution becomes a target. Every commit fires a shot.</i>
+</p>
+
+---
+
 ## 🧰 Tech Stack
 
 <div align="center">
