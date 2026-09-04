@@ -97,10 +97,10 @@ An **AI-powered dataset analysis platform** — upload, profile, clean, visualiz
 </td>
 <td width="50%" valign="top">
 
-### [StadiumBrain AI](https://github.com/Prabhu-E-S/FIFA-Stadium-AI)
-A **production-grade multi-agent operations command center** — real-time transit routing, crowd density analytics, emergency coordination powered by Gemini AI.
+### [NIT Calicut Token System](https://github.com/Prabhu-E-S/NITC-Physical-Reporting)
+A **production-grade token booking center** — real-time crowd density analytics, em
 
-`Next.js 15` `FastAPI` `Gemini AI` `Multi-Agent Pipeline` `TypeScript`
+`FlaskAPI` `JavaScript` `HTML/CSS` `SQLite`
 
 </td>
 </tr>
@@ -133,10 +133,10 @@ Personal portfolio website showcasing projects, skills, and experience — live 
 </td>
 <td width="50%" valign="top">
 
-### [Virtual Try-On](https://github.com/Prabhu-E-S/Virtual_Tryon)
-Computer vision system for **virtual garment try-on** using pose estimation and image composition techniques.
+### [ML-CaPsuLe](https://github.com/Prabhu-E-S/ML-CaPsule)
+In GSSoc'26 **Most contributed Open source** in multiple projects and PR's like Python 3.12 compatibility for Speech Recognition and TTS for a JARVIS, Joblib model serialization and inference support, and UI improvements for Spam Mail Detection.
 
-`Python` `OpenCV` `Computer Vision`
+`Python` `UI UX` `AI ML`
 
 </td>
 </tr>
