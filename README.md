@@ -142,15 +142,6 @@ In GSSoc'26 **Most contributed Open source** in multiple projects and PR's like 
 </tr>
 </table>
 
----
-
-## 🛸 Contribution Defender
-
-An animated space shooter — my ship flies across the profile and blasts away the commit blocks. Watch the grid respawn and get cleared again, forever.
-
-<p align="center">
-  <img src="contributions.svg" alt="Contribution Defender - spaceship shooting contribution blocks" width="100%" />
-</p>
 
 ---
 
