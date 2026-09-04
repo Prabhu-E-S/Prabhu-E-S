@@ -132,15 +132,13 @@ Computer vision system for **virtual garment try-on** using pose estimation and 
 
 ---
 
-## 📊 GitHub Stats
+## 🛸 Contribution Defender
 
-<div align="center">
+An animated space shooter — my ship flies across the profile and blasts away the commit blocks. Watch the grid respawn and get cleared again, forever.
 
-![Prabhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prabhu-E-S&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhu-E-S&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-</div>
+<p align="center">
+  <img src="contributions.svg" alt="Contribution Defender - spaceship shooting contribution blocks" width="100%" />
+</p>
 
 ---
 
