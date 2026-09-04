@@ -4,9 +4,9 @@
 
 > I build intelligent systems that connect software, AI, and the physical world.
 
-[![GitHub]](...)
-[![LinkedIn](...)](...)
-[![LeetCode](...)](...)
+[![Portfolio]](https://prabhues.vercel.app/)
+[![LinkedIn]](https://www.linkedin.com/in/prabhues2007/)
+[![Instagram]](https://www.instagram.com/prabhu.e_s_007/)
 
 ```
 OS: Indian OS
