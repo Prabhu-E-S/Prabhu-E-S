@@ -145,12 +145,10 @@ In GSSoc'26 **Most contributed Open source** in multiple projects and PR's like 
 </table>
 ---
 ## 🏆 Achievements
-
+<div align='center'
 ![GitHub Streak](https://streak-stats.demolab.com?user=Prabhu-E-S&theme=tokyonight)
-[![GitHub followers](https://img.shields.io/github/followers/Prabhu-E-S?style=for-the-badge&logo=github)](https://github.com/Prabhu-E-S)
-[![GitHub stars](https://img.shields.io/github/stars/Prabhu-E-S?style=for-the-badge&logo=github)](https://github.com/Prabhu-E-S)
-[![Profile Views](https://komarev.com/ghpvc/?username=Prabhu-E-S&style=for-the-badge)](https://github.com/Prabhu-E-S)
 
+</div>
 ---
 
 ## 🌐 Connect With Me
@@ -170,6 +168,8 @@ In GSSoc'26 **Most contributed Open source** in multiple projects and PR's like 
 
 *"Always learning, always building."*
 
-![Visitors](https://komarev.com/ghpvc/?username=Prabhu-E-S&color=58a6ff&style=flat-square&label=Profile+Views)
 
+[![GitHub followers](https://img.shields.io/github/followers/Prabhu-E-S?style=for-the-badge&logo=github)](https://github.com/Prabhu-E-S)
+[![GitHub stars](https://img.shields.io/github/stars/Prabhu-E-S?style=for-the-badge&logo=github)](https://github.com/Prabhu-E-S)
+[![Profile Views](https://komarev.com/ghpvc/?username=Prabhu-E-S&style=for-the-badge)](https://github.com/Prabhu-E-S)
 </div>
