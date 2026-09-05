@@ -146,10 +146,11 @@ In GSSoc'26 **Most contributed Open source** in multiple projects and PR's like 
 ---
 ## 🏆 Achievements
 
-[![GitHub followers](https://img.shields.io/github/followers/Prabhu-E-S?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
-[![GitHub stars](https://img.shields.io/github/stars/Prabhu-E-S?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
-[![Profile Views](https://komarev.com/ghpvc/?username=Prabhu-E-S&style=for-the-badge)](https://github.com/YOUR_USERNAME)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Prabhu-E-S&theme=tokyonight)
+[![GitHub followers](https://img.shields.io/github/followers/Prabhu-E-S?style=for-the-badge&logo=github)](https://github.com/Prabhu-E-S)
+[![GitHub stars](https://img.shields.io/github/stars/Prabhu-E-S?style=for-the-badge&logo=github)](https://github.com/Prabhu-E-S)
+[![Profile Views](https://komarev.com/ghpvc/?username=Prabhu-E-S&style=for-the-badge)](https://github.com/Prabhu-E-S)
+
 ---
 
 ## 🌐 Connect With Me
