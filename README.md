@@ -146,7 +146,7 @@ In GSSoc'26 **Most contributed Open source** in multiple projects and PR's like 
 ---
 ## 🏆 Achievements
 <div align='center'>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Prabhu-E-S&theme=tokyonight)]
+![GitHub Streak](https://streak-stats.demolab.com?user=Prabhu-E-S&theme=tokyonight)
 
 </div>
 ---
