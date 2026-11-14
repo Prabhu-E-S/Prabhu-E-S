@@ -21,7 +21,7 @@ Programming.Frameworks: ReactJS, Tailwind, FastAPI
 Programming.Databases: MySQL (_Intermediate_)
 Programming.Libraries: NumPy, Pandas, Matplotlib, Seaborn, OpenCV, scikit-learn, and TensorFlow
 Programming.Services: Git, GitHub, Docker
-Programming.Models: Supervised, Random Forest, XGBoost, Unsupervised, and Recommender Systems
+Programming.Models: Supervised, Trees & Boosting, Unsupervised, Reinforcement Learning, Neural Networks and Recommender Systems
 
 Robotics.Languages: Arduino (C)
 Robotics.Tools: TinkerCAD, Wokwi
