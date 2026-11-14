@@ -16,12 +16,12 @@ Uptime: 18 Years
 Host: National Institute Of Technology Calicut
 Kernel: Electronics and Communication Engineering (ECE)
 
-Programming.Languages: C, HTML & CSS, Python, JavaScript
-Programming.Frameworks: ReactJS, Tailwind, Next.js, FastAPI
-Programming.Databases: MySQL (_Intermediate_), PostgreSQL
-Programming.Libraries: NumPy, Pandas, Matplotlib, Seaborn, OpenCV, scikit-learn, XGBoost
+Programming.Languages: C, HTML, Python, JavaScript
+Programming.Frameworks: ReactJS, Tailwind, FastAPI
+Programming.Databases: MySQL (_Intermediate_)
+Programming.Libraries: NumPy, Pandas, Matplotlib, Seaborn, OpenCV, scikit-learn, and TensorFlow
 Programming.Services: Git, GitHub, Docker
-Programming.Models: Supervised, Logistic Regression, Random Forest, Transformer, XGBoost
+Programming.Models: Supervised, Random Forest, XGBoost, Unsupervised, and Recommender Systems
 
 Robotics.Languages: Arduino (C)
 Robotics.Tools: TinkerCAD, Wokwi
@@ -89,7 +89,7 @@ Self.Email: elanprabhu009@gmail.com
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<!--![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)-->
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -99,7 +99,6 @@ Self.Email: elanprabhu009@gmail.com
 ![RAG](https://img.shields.io/badge/RAG-7B61FF?style=for-the-badge&logo=openai&logoColor=white)
 ![Agentic Workflows](https://img.shields.io/badge/Agentic%20Workflows-FF6B6B?style=for-the-badge&logo=probot&logoColor=white)
 ![LLM Orchestration](https://img.shields.io/badge/LLM%20Orchestration-6C5CE7?style=for-the-badge&logo=openai&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OCR](https://img.shields.io/badge/OCR-00B894?style=for-the-badge&logo=googledocs&logoColor=white)
 
